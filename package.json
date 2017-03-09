@@ -23,23 +23,7 @@
   },
   "homepage": "https://github.com/ULL-ESIT-PL-1617/estudiar-cookies-y-sessions-en-expressjs-pedro-tarun-joaquin-abian#readme",
   "devDependencies": {
-    "async": "latest",
-    "express": "latest",
-    "fs-extra": "latest",
-    "gh-pages": "latest",
-    "gitbook": "latest",
-    "gitbook-cli": "latest",
-    "gulp": "latest",
-    "gulp-gh-pages": "latest",
-    "gulp-shell": "latest",
-    "shell-task": "latest",
-    "ejs": "latest",
-    "cookie-parser": "latest"
   },
   "dependencies": {
-    "cookie-parser": "latest",
-    "ejs": "latest",
-    "express": "latest",
-    "gulp-shell": "latest"
   }
 }
