@@ -10,7 +10,4 @@ Las cookies son usadas principalmente para los siguientes tres propositos:
 * Para mantener las **preferencias de usuario**, dando la capacidad de personalizar a este.
 * Análisis del **comportamiento del usuario**.
 
-![](/assets/image1.png)
-
-
-
+![](./img/image1.png)

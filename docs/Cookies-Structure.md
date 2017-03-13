@@ -24,5 +24,4 @@ En general, las cookies suelen estas formadas por los siguientes **atributos, **
 
 Una Cookie suele tener este aspecto, aunque en general varía dependiendo de como haya sido creada:
 
-![](/assets/p.jpg)
-
+![](./img/p.jpg)
