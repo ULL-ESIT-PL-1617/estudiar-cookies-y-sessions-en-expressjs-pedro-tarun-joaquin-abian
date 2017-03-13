@@ -164,5 +164,4 @@ function checkCookie() {
 
 ###### Explicación del ejemplo
 
-Si el cookie está añadido se mostrará un saludo, si no, se mostrará un prompt box, preguntandole al usuario por su nombre y creará una cookie con ese valor que durará 365 dias.
-
+Si se encuentra el cookie dentro del string, se enviará un mensaje de saludo con el nombre del usuario que ya ha sido añadido al string de cookies. Si no, se le pide que introduzca su nombre y se crea un cookie con su nombre correspondiente y fecha de expiración en un año. Este cookie por último se almacena con la funcion previamente creada
