@@ -4,6 +4,7 @@
 * [Cookies](/Cookies-Introduction.md)
   * [Estructura de las Cookies](/Cookies-Structure.md)
   * [Creación de las Cookies](/Creation-Cookies.md)
+  * [set-get-check-cookie.js](/set-get-check-cookie.md)
 * [Direccionamiento Básico](1-BasicRouting.md)
 * [Direccionamiento](2-Routing.md)
 * [Middleware](3-Middleware.md)
