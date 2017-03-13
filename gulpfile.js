@@ -14,13 +14,13 @@ gulp.task('deploygh', function() {
 
 
 gulp.task('deploygb', function() {
-        return gulp.src('').pipe(shell(['node ./deploy-gitbook.js']));
+        return gulp.src('').pipe(shell(['node ./scripts/deploy-gitbook.js']));
 });
 
 gulp.task('serve', function() {
-        return gulp.src('').pipe(shell(['node ../index.js']));
+        return gulp.src('').pipe(shell(['node index.js']));
 });
 
 gulp.task('auth', function() {
-        return gulp.src('').pipe(shell(['node ../src/auth.js']));
+        return gulp.src('').pipe(shell(['node src/auth.js']));
 });
