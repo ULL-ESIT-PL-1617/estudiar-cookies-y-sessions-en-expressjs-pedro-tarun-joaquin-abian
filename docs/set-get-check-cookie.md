@@ -75,7 +75,7 @@ document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
 
 ### Ejemplo de cookie en JavaScript
 
-En el ejemplo que verémos a continuación, crearemos un cookie que almacena el nombre de un visitante.
+En el ejemplo que verémos a continuación, crearemos un cookie que almacena el nombre de un visitante. Estos ejemplos se pueden comprobar desde la consola de cualquier navegador.
 
 La primera vez que un visitante visita la pagina web, se le hará rellenar su nombre. El nombre quedará almacenado en un cookie.
 
