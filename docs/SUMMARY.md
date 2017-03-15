@@ -5,6 +5,7 @@
   * [Estructura de las Cookies](/Cookies-Structure.md)
   * [Creación de las Cookies](/Creation-Cookies.md)
   * [Seguridad, Seguimiento y Privacidad](Cookies-Seguridad,Seguimiento,Privacidad.md)
+  * [Administración de Cookies en ExpressJS](Cookies-Administracion.md)
   * [set-get-check-cookie.js](/set-get-check-cookie.md)
   * [cookie-counter.js](cookie-session.js.md)
   * [hello-cookie.js](hello-cookie.js.md)
