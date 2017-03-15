@@ -1,5 +1,9 @@
 // https://www.w3schools.com/js/js_cookies.asp
-
+var express = require('express')
+var app = express()
+var x = document.cookie
+setCookie("sureto", "bro", 13)
+app.listen(123456)
 function setCookie(cname, cvalue, exdays) {
     var d = new Date();
     d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
