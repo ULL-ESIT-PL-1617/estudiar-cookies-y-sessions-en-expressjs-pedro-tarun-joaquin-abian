@@ -8,8 +8,9 @@
   * [Administración de Cookies en ExpressJS](Cookies-Administracion.md)
   * [Sessions en ExpressJS(Inglés)](Cookies-Sessions.md)
   * [set-get-check-cookie.js](/set-get-check-cookie.md)
-  * [cookie-counter.js](cookie-session.js.md)
-  * [hello-cookie.js](hello-cookie.js.md)
+  * [cookie-parser.js](/cookie-parser.js.md)
+  * [cookie-counter.js](/cookie-session.js.md)
+  * [hello-cookie.js](/hello-cookie.js.md)
 
 * [Direccionamiento Básico](1-BasicRouting.md)
 * [Direccionamiento](2-Routing.md)
