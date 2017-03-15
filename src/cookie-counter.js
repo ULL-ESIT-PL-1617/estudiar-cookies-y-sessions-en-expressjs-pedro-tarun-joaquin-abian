@@ -6,6 +6,8 @@ var cookieParser = require("cookie-parser");
 
 var app = express()
 
+//Depending on the cookie we set a number of views. So we show how many times a person has visited tehe page. Each person has a different view counter.
+
 /* 
 Although the app will not fail to run if the application variable
 trust proxy is not set, it will incorrectly register the proxy’s

@@ -21,6 +21,23 @@ gulp.task('serve', function() {
         return gulp.src('').pipe(shell(['node index.js']));
 });
 
-gulp.task('auth', function() {
-        return gulp.src('').pipe(shell(['node src/auth.js']));
+gulp.task('cookie-counter', function() {
+        return gulp.src('').pipe(shell(['node src/cookie-counter.js']));
 });
+
+gulp.task('hello-cookie', function() {
+        return gulp.src('').pipe(shell(['node src/hello-cookie.js']));
+});
+
+gulp.task('cookie-parse', function() {
+        return gulp.src('').pipe(shell(['node src/cookie-parse.js']));
+});
+
+gulp.task('create-clear-cookie', function() {
+        return gulp.src('').pipe(shell(['node src/create-clear-cookie.js']));
+});
+
+gulp.task('set-get-check-cookie', function() {
+        return gulp.src('').pipe(shell(['node src/set-get-check-cookie.js']));
+});
+
